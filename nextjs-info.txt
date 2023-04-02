@@ -1,0 +1,15 @@
+WHy Next.js?
+1. Server-side rendering
+2. Automatic code splitting
+3. SEO (Search Engine Optimization)
+4. Faster development
+5. Built-in support TypeScript
+6. Scalability
+
+Difference with React:
+ - Next.js pre-rendering js code on server side and send html with minimal js code to client, React sends 
+ all js to client and clint needs to render it on own machine. Next.js uses HYDRATION
+ Have 2 forms of prerendering:
+ 1. Static Generation (Recommended)
+ 2. Server-side rendering
+ Next.js gives possibility to create hybrid of these forms in dsngle application
