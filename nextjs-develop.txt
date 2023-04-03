@@ -4,3 +4,11 @@ npx create-next-app@latest --experimental-app
 Project file review(only something new to me)
 - pages - area for our routes
 - app - directory for basic pages
+--------------------------------
+We can create new route by adding dir into our app
+Inside our route we can create layout.tsx, where we importing our styles and returning pages
+Create page.tsx with unique content, place there metadata
+Create styles.module.tsx for styling
+Create error.tsx
+Create loading.tsx for loading message or animation
+----------------------------------
