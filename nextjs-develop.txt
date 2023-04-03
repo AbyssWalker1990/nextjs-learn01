@@ -1,0 +1,6 @@
+Creating app automatically
+npx create-next-app@latest --experimental-app
+-------------------------------
+Project file review(only something new to me)
+- pages - area for our routes
+- app - directory for basic pages
