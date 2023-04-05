@@ -12,3 +12,7 @@ Create styles.module.tsx for styling
 Create error.tsx
 Create loading.tsx for loading message or animation
 ----------------------------------
+IMPORTANT CHANGES !
+Head is now deprecated. Now we export metadata with Metadata type object
+----------------------------------
+Fetching data
