@@ -16,3 +16,7 @@ IMPORTANT CHANGES !
 Head is now deprecated. Now we export metadata with Metadata type object
 ----------------------------------
 Fetching data
+This works as SERVER COMPONENT
+We can fetch data in parallel
+If we see ts error when trying to use async component we can type:
+{/* @ts-expect-error Async Server Component */} // In future this problem must be resolved
